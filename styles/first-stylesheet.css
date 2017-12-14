@@ -1,0 +1,64 @@
+body {
+  background-color:#FFE2E8;
+}
+header {
+  background-color:#69B275;
+  border-width:medium ;
+  border-style: dashed;
+  border-color: white;
+  text-align: center;
+}
+#portrait {
+  display: block;
+  margin: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 10px;
+  width: 200px;
+  float: left
+}
+i {
+  font-size: 60px
+}
+h1 {
+  color:#844F5A;
+  font-family: 'Shadows Into Light Two', cursive;
+  font-size: 35px;
+}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+a:visited {
+  color: darkblue;
+}
+a:hover {
+  text-decoration: none;
+   
+}
+a:active {
+  color: darkcyan;
+  font-family: 'PT Serif', serif;
+}
+article h2 {
+  color: #844F5A;
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+}
+article img {
+  width: 400px;
+}
+.project {
+  float: left;
+  max-width: 33.33%;
+  padding: 10px;
+  text-align: center;
+  
+}
+
+footer {
+  clear: both;
+  background-color: #FFE2E8;
+  border-style:none;
+  color: #69B275;
+  text-align: center;
+}
